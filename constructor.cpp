@@ -5,7 +5,7 @@ using namespace std;
 class Complex
 {
 private:
-    int a, b;
+    int a, b,c;
 
 public:
     Complex()
